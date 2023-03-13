@@ -1,0 +1,12 @@
+pi_t_difference=zdatalinear_(:,1);
+y_t_difference=zdatalinear_(:,2);
+y_star_t_difference=zdatalinear_(:,3);
+r_t_difference=zdatalinear_(:,4);
+rnot_difference=zdatalinear_(:,5);
+r_star_t_difference=zdatalinear_(:,6);
+mu_t_difference=zdatalinear_(:,7);
+zb_t_difference=zdatalinear_(:,8);
+data_y_difference=zdatalinear_(:,9);
+data_pi_difference=zdatalinear_(:,10);
+data_r_difference=zdatalinear_(:,11);
+data_rnot_difference=zdatalinear_(:,12);

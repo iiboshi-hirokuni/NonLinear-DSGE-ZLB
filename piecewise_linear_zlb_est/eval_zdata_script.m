@@ -1,0 +1,12 @@
+data_pi_l=zdatal(:,10);
+data_pi_p=zdatap(:,10);
+data_pi_ss=zdatass(10);
+data_y_l=zdatal(:,9);
+data_y_p=zdatap(:,9);
+data_y_ss=zdatass(9);
+data_r_l=exp(zdatal(:,11))-1;
+data_r_p=exp(zdatap(:,11))-1;
+data_r_ss=zdatass(11);
+data_rnot_l=exp(zdatal(:,12))-1;
+data_rnot_p=exp(zdatap(:,12))-1;
+data_rnot_ss=zdatass(12);
