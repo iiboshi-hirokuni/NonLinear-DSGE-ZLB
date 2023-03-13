@@ -1,0 +1,13 @@
+\begin{table}[bp]
+\begin{center}
+\begin{tabular}{ccccccc} 
+
+
+	
+ \\
+\hline
+\end{tabular}
+\end{center}
+\caption{}
+\label{}
+\end{table}
